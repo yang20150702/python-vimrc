@@ -16,5 +16,5 @@ pip install yapf autopep8 flake8
 将该仓库clone到本地，将.vimrc移动到相应用户的根目录。
 
 ```
-git clone 
+git clone https://github.com/yang20150702/python-vimrc.git
 ```
