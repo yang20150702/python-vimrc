@@ -18,5 +18,5 @@ git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 将该仓库clone到本地，将.vimrc移动到相应用户的根目录。
 
 ```
-git clone https://github.com/yang20150702/python-vimrc.git ~/.vimrc
+git clone https://github.com/yang20150702/python-vimrc.git ~/
 ```
